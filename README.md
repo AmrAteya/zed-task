@@ -1,4 +1,4 @@
-# Freelancer Theme for Vuetify
+# Zed landing page
 
 ## Project setup
 ```
